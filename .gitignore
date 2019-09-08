@@ -1,3 +1,7 @@
-c.ipynb_checkpoints/
+.ipynb_checkpoints/
 .gitignore
 07-08/sqlResult_1558435.csv
+05_project/ltp_data/
+ltp_data_v3.4.0.zip
+pyltp-0.2.1-cp35-cp35m-win_amd64.whl
+content.json
